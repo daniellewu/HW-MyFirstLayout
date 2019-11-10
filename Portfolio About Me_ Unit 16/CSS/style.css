@@ -1,0 +1,36 @@
+body {
+    font-family: "Open Sans", "PT Sans", "San Serif";
+    font-size: 18px;
+
+}
+
+h1 {
+    font-family: "Open Sans", "PT Sans", "San Serif";
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+
+#linkedin, #gmail, #instagram {
+    width: 27px;
+    height: 27px;
+    margin: 10px;
+    float: right;
+}
+.dwu {
+    margin: 50px;
+    align-content: flex-start;
+}
+.inline-block {
+    display: inline-block;
+    height: 600px;
+    padding: 15px;
+}
+.left {
+    width: 40%;
+    float: left;
+}
+.right{
+    width: 57%;
+    float: right;
+}
